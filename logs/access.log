@@ -1,0 +1,6 @@
+192.168.99.1 - - [09/Apr/2020:16:28:04 +0900] "GET / HTTP/1.1" 403 153 "-" "curl/7.68.0" "-"
+192.168.99.1 - - [09/Apr/2020:16:28:19 +0900] "GET / HTTP/1.1" 403 555 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" "-"
+192.168.99.1 - - [09/Apr/2020:16:28:19 +0900] "GET /favicon.ico HTTP/1.1" 404 27 "http://192.168.99.101:10080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" "-"
+192.168.99.1 - - [09/Apr/2020:16:29:14 +0900] "GET /index.html HTTP/1.1" 200 12 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" "-"
+192.168.99.1 - - [09/Apr/2020:16:29:34 +0900] "GET /phpinfo.php HTTP/1.1" 200 88823 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" "-"
+192.168.99.1 - - [09/Apr/2020:16:38:03 +0900] "GET / HTTP/1.1" 200 2438 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" "-"
